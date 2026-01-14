@@ -4,6 +4,8 @@
 
 This project tackles a key business challenge by developing an end-to-end data pipeline on Azure. It extracts customer and sales data from an on-premises SQL database, processes and transforms it in the cloud, and delivers actionable insights through a Power BI dashboard. The dashboard visualizes KPIs on gender distribution and product category sales, enabling stakeholders to filter and analyze data by date, category, and gender.
 
+![](./docs/architecture.jpeg)
+
 ## Business Requirements
 
 The business has identified a gap in understanding customer demographics—specifically gender distribution—and how it influences product purchases. The key requirements include:
